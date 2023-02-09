@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical-2</string>
+    <string name="decrease">Decrease</string>
+    <string name="increase">Increase</string>
+    <string name="_0">0</string>
+    <string name="abhay_s_app">Abhay\'s App</string>
+    <string name="toast">Hello Toast</string>
+</resources>
