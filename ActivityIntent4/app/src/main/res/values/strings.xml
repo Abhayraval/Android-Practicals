@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityIntent4</string>
+    <string name="send">send</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="text_header">Message Received</string>
+    <string name="editText_main">Enter Your Message</string>
+</resources>
